@@ -1,4 +1,15 @@
 title: dipak-amazonfavourites
-
-# Blog settings
-# Additional settings can be included here as needed.
+description: My favorite Amazon products and reviews
+baseurl: ""
+url: "https://dipakhk7750-rgb.github.io"
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+exclude:
+  - Gemfile
+  - Gemfile.lock
