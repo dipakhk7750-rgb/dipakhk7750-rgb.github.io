@@ -1,0 +1,6 @@
+title: My Blog
+description: A space to share my content and ideas
+author: dipakhk7750-rgb
+theme: jekyll-theme-minima
+plugins:
+  - jekyll-feed
